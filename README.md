@@ -4,10 +4,11 @@ DUH to SVD converter
 
 ## DUH
 
-* https://github.com/sifive/duh
-* https://github.com/sifive/duh-schema
+* intro - https://github.com/sifive/duh
+* schema - https://github.com/sifive/duh-schema
 
 ## SVD
 
-* https://www.keil.com/pack/doc/CMSIS/SVD/html/index.html
-* https://www.keil.com/pack/doc/CMSIS/SVD/html/svd_Format_pg.html
+* intro - https://www.keil.com/pack/doc/CMSIS/SVD/html/index.html
+* format - https://www.keil.com/pack/doc/CMSIS/SVD/html/svd_Format_pg.html
+* schema - https://www.keil.com/pack/doc/CMSIS/SVD/html/schema_1_2_gr.html
