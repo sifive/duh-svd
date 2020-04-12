@@ -1,4 +1,5 @@
-# duh-svd
+[![NPM version](https://img.shields.io/npm/v/duh-svd.svg)](https://www.npmjs.org/package/duh-svd)
+[![Actions Status](https://github.com/sifive/duh-svd/workflows/Tests/badge.svg)](https://github.com/sifive/duh-svd/actions)
 
 DUH to SVD converter
 
